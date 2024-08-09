@@ -10,6 +10,10 @@ Este projeto é fornecido apenas como Prova de Conceito (PoC) e não deve ser co
 **INSTALAÇÃO:**
 
 ```bash
+git clone https://github.com/WallaceWebsBR/piano-pobre.git
+
+cd piano-pobre
+
 pip install -r requirements.txt
 
 python pianoPobre.py
